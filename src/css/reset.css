@@ -8,4 +8,6 @@ ul {
 }
 button {
     border: none;
+    font-family: "Hanken Grotesk", sans-serif;
+    font-size: 15px;
 }
